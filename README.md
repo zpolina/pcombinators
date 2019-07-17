@@ -67,3 +67,4 @@ making fewer calls to sub-parsers. Production use isn't quite recommended :)
 * Write native parsers for frequently occurring strings. See `primitives.py` for a canonical and a
  fast implementation of integer and float parsing.
 
+I LOVE YOU, BECAUSE YOU WRIGHT SUCH AN AWESOME CODE
